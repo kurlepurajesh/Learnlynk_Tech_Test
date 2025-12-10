@@ -4,7 +4,7 @@
 -- ============================================================================
 -- Description: Complete schema for multi-tenant admissions CRM with leads,
 --              applications, and tasks management
--- Author: [Your Name]
+-- Author: Kurlepu Rajesh
 -- Date: 10 December 2025
 -- ============================================================================
 

@@ -1,6 +1,6 @@
 # Submission Notes & Assumptions
 
-**Candidate**: [Your Name]  
+**Candidate**: Kurlepu Rajesh  
 **Date**: 10 December 2025  
 **Position**: Internship - LearnLynk CRM
 
@@ -295,7 +295,6 @@ Thank you for the opportunity!
 
 **Contact Information**
 
-- Email: [your-email@example.com]
-- GitHub: [github.com/your-username]
-- LinkedIn: [linkedin.com/in/your-profile]
-- Portfolio: [your-portfolio.com]
+- Email: rajesh_k@cs.iitr.ac.in
+- GitHub: github.com/kurlepurajesh
+- LinkedIn: linkedin.com/in/kurlepu-rajesh

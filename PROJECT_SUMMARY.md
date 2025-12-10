@@ -338,14 +338,14 @@ It demonstrates not just the ability to complete an assignment, but the mindset 
 ## 📧 Suggested Email Template
 
 ```
-Subject: LearnLynk Technical Assessment Submission - [Your Name]
+Subject: LearnLynk Technical Assessment Submission - Kurlepu Rajesh
 
 Dear Tushar,
 
 I am pleased to submit my technical assessment for the LearnLynk internship position.
 
-Submission Type: [GitHub Repository / ZIP File]
-Link/Attachment: [Your Link or Attachment]
+Submission Type: GitHub Repository
+Link/Attachment: https://github.com/kurlepurajesh/learnlynk-tech-test
 
 Key Highlights:
 • Complete implementation of all 5 sections
@@ -372,10 +372,10 @@ I've prioritized production readiness, security, and developer experience throug
 Thank you for the opportunity. I look forward to discussing the technical approach.
 
 Best regards,
-[Your Name]
-[Your Email]
-[Your GitHub]
-[Your LinkedIn]
+Kurlepu Rajesh
+rajesh_k@cs.iitr.ac.in
+github.com/kurlepurajesh
+linkedin.com/in/kurlepu-rajesh
 ```
 
 ---

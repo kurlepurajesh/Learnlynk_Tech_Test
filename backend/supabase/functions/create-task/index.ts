@@ -4,7 +4,7 @@
 // ============================================================================
 // Description: Serverless function to create tasks with validation and
 //              real-time event broadcasting
-// Author: [Your Name]
+// Author: Kurlepu Rajesh
 // Date: 10 December 2025
 // ============================================================================
 

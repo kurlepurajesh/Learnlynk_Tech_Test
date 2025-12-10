@@ -1,6 +1,6 @@
 # LearnLynk Technical Assessment Submission
 
-**Candidate Name:** [Your Name]  
+**Candidate Name:** Kurlepu Rajesh  
 **Submission Date:** 10 December 2025  
 **Position:** Internship - Full Stack Developer  
 
@@ -188,9 +188,9 @@ curl -X POST https://your-project.supabase.co/functions/v1/create-task \
 
 For any questions or clarifications:
 
-**Email:** [your-email@example.com]  
-**GitHub:** [your-github-username]  
-**LinkedIn:** [your-linkedin-profile]
+**Email:** rajesh_k@cs.iitr.ac.in  
+**GitHub:** github.com/kurlepurajesh  
+**LinkedIn:** linkedin.com/in/kurlepu-rajesh
 
 ---
 

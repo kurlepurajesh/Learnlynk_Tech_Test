@@ -3,7 +3,7 @@
 // Section 4: Mini Frontend Exercise
 // ============================================================================
 // Description: Next.js page displaying tasks due today with React Query
-// Author: [Your Name]
+// Author: Kurlepu Rajesh
 // Date: 10 December 2025
 // ============================================================================
 

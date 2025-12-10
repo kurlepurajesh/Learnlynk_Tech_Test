@@ -3,7 +3,7 @@
 -- Section 2: RLS & Policies Test
 -- ============================================================================
 -- Description: Multi-tenant security policies for leads, applications, and tasks
--- Author: [Your Name]
+-- Author: Kurlepu Rajesh
 -- Date: 10 December 2025
 -- ============================================================================
 
